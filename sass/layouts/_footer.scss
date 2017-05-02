@@ -1,0 +1,32 @@
+.footer-main{
+	padding: 45px;
+	background-color: $nav-color; 	
+	color: #fff;
+	.lh{
+		line-height: 30px;
+	}
+	.nav-bottom-item{
+		padding: 20px 10px;
+	}
+	.map-iframe{
+		width:100%;
+		padding: 50px 25px;
+	}
+	a.link{
+		color: #fff;
+		text-decoration:none;
+	}
+	a.link:hover{
+		text-decoration: underline;
+	}
+	.sosial-media{
+		padding: 20px 10px;
+		.icon-sosial{
+			color: #fff;
+			margin: 5px 10px;
+		}
+		.icon-sosial:hover{
+			color: lighten($main-color, 10%);
+		}
+	}
+}

@@ -1,0 +1,71 @@
+.block-featured{
+	padding: 90px 10px;
+	background-color: darken($nav-color, 10%);
+	color: $font-color;
+	line-height: 25px;
+	.card-featured{
+		@include cards('large');
+		padding: 80px 40px;
+	}
+	.card-primary{
+		background-color: darken($main-color, 10%);
+		border-top: 9px solid #ffffff;
+		border-bottom: 9px solid #ffffff;
+	}
+	.card-secondary{
+		background-color: $font-color;
+		color: $nav-color;
+		border-top: 9px solid darken($main-color, 10%);
+		border-bottom: 9px solid darken($main-color, 10%);
+	}
+	.card-icon{
+		margin-bottom: 10px;
+		font-size: 78px;
+	}
+}
+
+.block-main-content{
+	padding: 80px 25px;
+	width: 80%;
+	margin: auto;
+	@include add-border(9px, $main-color, 'bottom');
+	margin-bottom: 50px;
+	strong{
+		font-size: $font-xlg;
+	}
+	b{font-weight:bold;}
+	p{
+		line-height: 30px;
+		margin-bottom: 10px;
+	}
+	.icon-bookmark{
+		font-size: 18px;
+	}
+	.list-c li {
+		line-height: 35px;
+		list-style: square;
+	}
+	.img-dentists{
+		height: 200px;
+		margin: 5px auto;
+	}
+}
+
+.block-main-content-a{
+	border: none;
+	@extend .block-main-content;
+}
+
+.block-main-content-no-border{
+	padding: 80px 25px;
+	width: 80%;
+	margin: auto;
+	border: none;
+	strong{
+		font-size: $font-xlg;
+	}
+	p{
+		line-height: 30px;
+		margin-bottom: 10px;
+	}
+}
