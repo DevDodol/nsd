@@ -34,7 +34,7 @@ Design Color Following Logo:
 
 ![Dental Service](https://lh3.googleusercontent.com/-S-QoqyyX1T8/WQgiFw9hpQI/AAAAAAAABxI/outGLuE3A1saJCJYx8C1BJ2kjvww7ZM9gCLcB/s1000/naturalsmilesdental-dental-services-fullpage.png "naturalsmilesdental-dental-services-fullpage.png")
 
-### Dantists
+### Dentists
 
 ![Dantists](https://lh3.googleusercontent.com/-6zo6paX_FVY/WQgidtM3tsI/AAAAAAAABxQ/rYLeArnmCikx-YHgI-AJV_zntwv5c1tNgCLcB/s1000/naturalsmilesdental-detists-fullpage.png "naturalsmilesdental-detists-fullpage.png")
 
