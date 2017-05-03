@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Welcome To New Natural Smiles Dental Website
 
 - Includes :
@@ -40,3 +41,7 @@ Design Color Following Logo:
 ### Patient Center
 
 ![Patient Center](https://lh3.googleusercontent.com/-NXMTdn4qjeE/WQgi0hhCJhI/AAAAAAAABxc/cmoXIlTrJyAr66GnT5GSu_1xEC42atqRACLcB/s1000/naturalsmilesdental-patient-center-fullpage.png "naturalsmilesdental-patient-center-fullpage.png")
+=======
+# nsd
+nsd
+>>>>>>> 1409f1cdab2da603230314b62f85e7bac9630f99
