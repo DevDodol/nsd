@@ -3,7 +3,7 @@
 	height: 550px;
 	margin-top: -20px;
 	margin-bottom: 0;
-	@include add-border(5px, darken($nav-color, 10%), 'bottom');
+	@include add-border(5px, darken($main-color, 10%), 'bottom');
 }
 
 .block-showcase-primary-a{
@@ -12,11 +12,11 @@
 	overflow: hidden;
 	margin-top: -20px;
 	margin-bottom: 0;
-	@include add-border(5px, darken($nav-color, 10%), 'bottom');
-	background-color: darken(#e3e3e3, 10%);
+	background-color: #cdcfd0;
+	@include add-border(5px, darken($main-color, 10%), 'bottom');
 	text-align: center;
 	.img-showcase-a{
-		width: 25%;
+		width: 100%;
 		margin: auto;
 	}
 }

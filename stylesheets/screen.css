@@ -211,7 +211,7 @@ strong {
   height: 550px;
   margin-top: -20px;
   margin-bottom: 0;
-  border-bottom: 5px solid #30464d;
+  border-bottom: 5px solid #8d9c6d;
 }
 
 /* line 9, ../sass/layouts/_header.scss */
@@ -221,13 +221,13 @@ strong {
   overflow: hidden;
   margin-top: -20px;
   margin-bottom: 0;
-  border-bottom: 5px solid #30464d;
-  background-color: #cacaca;
+  background-color: #cdcfd0;
+  border-bottom: 5px solid #8d9c6d;
   text-align: center;
 }
 /* line 18, ../sass/layouts/_header.scss */
 .block-showcase-primary-a .img-showcase-a {
-  width: 25%;
+  width: 100%;
   margin: auto;
 }
 
