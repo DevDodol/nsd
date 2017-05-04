@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 ## Welcome To New Natural Smiles Dental Website
 
 - Includes :
-	- Bootstrap Twitter
-	- jQuery Library
-	- jQuery Backstrecth JS
+    - Bootstrap Twitter
+    - jQuery Library
+    - jQuery Backstrecth JS
 
 - Costumize Sylesheet
-	- Using **Sass** (CSS Preprosessor)
-	- Responsive Design
+    - Using **Sass** (CSS Preprosessor)
+    - Responsive Design
 
 Color Palette : 
 
@@ -24,24 +23,20 @@ Design Color Following Logo:
 
 ### Hompage
 
-![Homepage](https://lh3.googleusercontent.com/-9dXVUgLzYVY/WQgaUVcrfDI/AAAAAAAABwE/5AWrNS-KbJoqn5eoFOO73MphJz4W-h68QCLcB/s1000/naturalsmilesdental-homepage-fullpage.png "naturalsmilesdental-homepage-fullpage.png")
+![Homepage](https://lh3.googleusercontent.com/-1nLhJeS6cak/WQqaaJox2vI/AAAAAAAABy8/pTQ4lI6MLa4E-a-x_m8yeo4kl2QrpHIgwCE0/s1000/naturalsmilesdental-homepage-fullpage.png "naturalsmilesdental-homepage-fullpage.png")
 
 ### Mega Dropdwon and Maps Inside !!!
 
-![Mega Dropdwon and Maps Inside](https://lh3.googleusercontent.com/-DxqSwit-nF8/WQgj8dk-r4I/AAAAAAAABx0/YNzxQsPnrAk6hbg_XlX4S1xy4Wn6nCtAgCLcB/s1000/naturalsmilesdental-mega-dropdown-fullpage.png "naturalsmilesdental-mega-dropdown-fullpage.png")
+![Mega Dropdwon and Maps Inside](https://lh3.googleusercontent.com/-lEs7htpGPgA/WQqaokXiGwI/AAAAAAAABzI/mAvPVt6jmDUtn4VuGO6SSPyqRJ_FqQfzwCE0/s1000/naturalsmilesdental-getting-tour-our-office-mega-dropdown-fullpage.png "naturalsmilesdental-getting-tour-our-office-mega-dropdown-fullpage.png")
 
 ### Dental Service
 
-![Dental Service](https://lh3.googleusercontent.com/-S-QoqyyX1T8/WQgiFw9hpQI/AAAAAAAABxI/outGLuE3A1saJCJYx8C1BJ2kjvww7ZM9gCLcB/s1000/naturalsmilesdental-dental-services-fullpage.png "naturalsmilesdental-dental-services-fullpage.png")
+![Dental Service](https://lh3.googleusercontent.com/-0ojMFrwt1LE/WQqa3fsORLI/AAAAAAAABzY/wbP28lWbtpoO5kY8fG8hRsO7MpmYBlD3gCE0/s1000/naturalsmilesdental-dental-service-fullpage.png "naturalsmilesdental-dental-service-fullpage.png")
 
 ### Dentists
 
-![Dantists](https://lh3.googleusercontent.com/-6zo6paX_FVY/WQgidtM3tsI/AAAAAAAABxQ/rYLeArnmCikx-YHgI-AJV_zntwv5c1tNgCLcB/s1000/naturalsmilesdental-detists-fullpage.png "naturalsmilesdental-detists-fullpage.png")
+![Dentists](https://lh3.googleusercontent.com/-A6wXY4sBTJM/WQqbMdKwWwI/AAAAAAAABzo/K-i1clbnVJEjj8IJYSZvNPjX3aCXgLK2ACE0/s1000/naturalsmilesdental-dentists-fullpage.png "naturalsmilesdental-dentists-fullpage.png")
 
 ### Patient Center
 
-![Patient Center](https://lh3.googleusercontent.com/-NXMTdn4qjeE/WQgi0hhCJhI/AAAAAAAABxc/cmoXIlTrJyAr66GnT5GSu_1xEC42atqRACLcB/s1000/naturalsmilesdental-patient-center-fullpage.png "naturalsmilesdental-patient-center-fullpage.png")
-=======
-# nsd
-nsd
->>>>>>> 1409f1cdab2da603230314b62f85e7bac9630f99
+![Patient Center](https://lh3.googleusercontent.com/-qBuseI0Xt1g/WQqba7tPB5I/AAAAAAAABz4/8dakSNVjaKYKYYl7s2Sb8Qbbelt0-pGoACE0/s1000/naturalsmilesdental-patient-center-fullpage.png "naturalsmilesdental-patient-center-fullpage.png")
