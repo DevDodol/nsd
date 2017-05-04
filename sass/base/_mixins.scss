@@ -1,0 +1,60 @@
+@mixin add-border($size, $color, $type) {
+
+	@if $type == 'all' {
+		border: $size solid $color;
+	} @else if $type == 'right' {
+		border-right: $size solid $color;
+	} @else if $type == 'left' {
+		border-left: $size solid $color;
+	} @else if $type == 'top' {
+		border-top: $size solid $color;
+	}@else if $type == 'bottom' {
+		border-bottom: $size solid $color;
+	}
+	
+}
+
+@mixin cards($size) {
+	
+	@if $size == 'small' {
+		box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+	} @else if $size == 'medium' {
+		box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.16), 0 5px 10px 0 rgba(0, 0, 0, 0.12);
+	} @else if $size == 'large' {
+		box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.16), 0 10px 20px 0 rgba(0, 0, 0, 0.12);
+	}
+
+}
+
+@mixin add-btn($type, $color) {
+	
+	@if $type == 'lg' {
+		
+		padding: 20px 15px;
+		border-radius: 5px;
+		outline: none;
+		background-color: darken($color, 5%) !important;
+		color: #fff;
+		text-decoration: none !important;
+
+	} @else if $type == 'md' {
+		
+		padding: 10px 10px;
+		border-radius: 5px;
+		outline: none;
+		background-color: darken($color, 5%) !important;
+		color: #fff;
+		text-decoration: none !important;
+
+	} @else if $type == 'sm' {
+		
+		padding: 5px 8px;
+		border-radius: 5px;
+		outline: none;
+		background-color: darken($color, 5%) !important;
+		color: #fff;
+		text-decoration: none !important;
+
+	}
+
+}
